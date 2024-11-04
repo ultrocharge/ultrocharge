@@ -11,7 +11,13 @@
   <a href="https://join.skype.com/invite/okDfPKgEgIpE" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
 </p>
 
-## Technologies I Work With
+## About me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+<p align="center">
+  I’m a Full Stack Web Developer and Blockchain Engineer with a passion for building innovative and efficient applications. I specialize in both front-end and back-end development, ensuring seamless user experiences while leveraging blockchain technology to create secure and decentralized solutions. My goal is to blend creativity with technical expertise to drive impactful projects.
+</p>
+
+## ⚡ Technologies
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/web3dotjs/F16822" alt="Web3 Icon" width="50" height="50" />
