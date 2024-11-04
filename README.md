@@ -13,7 +13,7 @@
 
 ## Technologies I Work With
 
-<div>
+<div align="center">
   <img src="https://cdn.simpleicons.org/web3dotjs/F16822" alt="Web3 Icon" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="Ethereum Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" width="50" height="50" />
