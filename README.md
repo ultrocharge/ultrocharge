@@ -66,8 +66,6 @@
         <p style="padding: 0; margin: 0;">PHP</p>
       </div>
     </td>
-  </tr>
-  <tr style="width: 100%;">
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Icon" style="width: 65px; height: 65px;" />
@@ -76,8 +74,22 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="./images/icons/wordpress-logo-wordpress-icon-transparent-free-png.png" alt="WordPress Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">WordPress</p>
+      </div>
+    </td>
+  </tr>
+  <tr style="width: 100%;">
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">React</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="./images/icons/react-native.png" alt="React Native Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">React Native</p>
       </div>
     </td>
     <td align="center" width="96">
@@ -100,8 +112,34 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="./images/icons/icons8-angularjs-100.png" alt="Angular Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Angular</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" alt="Vite Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Vite</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://freelogopng.com/images/all_img/1655836788shopify-icon-png.png" alt="Shopify Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Shopify</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Node</p>
+      </div>
+    </td>
+  </tr>
+  <tr style="width: 100%;">
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Express Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">MySQL</p>
       </div>
     </td>
     <td align="center" width="96">
@@ -110,12 +148,16 @@
         <p style="padding: 0; margin: 0;">Express</p>
       </div>
     </td>
-  </tr>
-  <tr style="width: 100%;">
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">MongoDB</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">AWS</p>
       </div>
     </td>
     <td align="center" width="96">
