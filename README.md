@@ -118,7 +118,7 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" alt="Vite Icon" style="width: 65px; height: 65px;" />
+      <img src="./images/icons/icons8-vite-240.png" alt="Vite Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Vite</p>
       </div>
     </td>
@@ -144,13 +144,13 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Icon" style="width: 65px; height: 65px;" />
+        <img src="/images/icons/express.png" alt="Express Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Express</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
+        <img src="/images/icons/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">MongoDB</p>
       </div>
     </td>
@@ -162,8 +162,20 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX9KYoFpX9v-HF45IjK17OC4jhT19I55y0Fw&s" alt="Python Icon" style="width: 65px; height: 65px;" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Python</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">BlockChain</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/images/icons/web3.png" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Web3</p>
       </div>
     </td>
   </tr>
