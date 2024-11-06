@@ -27,13 +27,25 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" width="50" height="50" />
+  <img src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg" alt="Saas Icon" width="50" height="50" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS Icon" width="50" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Icon" width="50" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="TypeScript Icon" width="50" height="50" />
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Icon" width="50" height="50" />
   &nbsp;&nbsp;
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Icon" width="50" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" width="50" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Icon" width="50" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon" width="50" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.brandfetch.io/idbZEWAZ5J/w/400/h/400/theme/dark/icon.png?c=1id64Mup7ac03k1S4NH&t=1727140851015" alt="Nuxt.js Icon" width="50" height="50" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Icon" width="50" height="50" />
   &nbsp;&nbsp;
@@ -41,9 +53,5 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon" width="50" height="50" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX9KYoFpX9v-HF45IjK17OC4jhT19I55y0Fw&s" alt="Python Icon" width="50" height="50" />
 </div>
