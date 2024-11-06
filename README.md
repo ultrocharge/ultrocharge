@@ -88,6 +88,12 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="/images/icons/Redux.png" alt="Redux Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Redux</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="./images/icons/react-native.png" alt="React Native Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">React Native</p>
       </div>
@@ -114,12 +120,6 @@
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="./images/icons/Angular.png" alt="Angular Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Angular</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./images/icons/icons8-vite-240.png" alt="Vite Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Vite</p>
       </div>
     </td>
     <td align="center" width="96">
