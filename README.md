@@ -74,7 +74,7 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./images/icons/wordpress-logo-wordpress-icon-transparent-free-png.png" alt="WordPress Icon" style="width: 65px; height: 65px;" />
+      <img src="/images/icons/wordpress.png" alt="WordPress Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">WordPress</p>
       </div>
     </td>
@@ -112,7 +112,7 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./images/icons/icons8-angularjs-100.png" alt="Angular Icon" style="width: 65px; height: 65px;" />
+      <img src="./images/icons/Angular.png" alt="Angular Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Angular</p>
       </div>
     </td>
@@ -138,19 +138,31 @@
   <tr style="width: 100%;">
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Express Icon" style="width: 65px; height: 65px;" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">MySQL</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/express.png" alt="Express Icon" style="width: 65px; height: 65px;" />
+        <img src="/images/icons/Postgresql.png" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Postgresql</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/images/icons/GraphQL.png" alt="GraphQL Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">GraphQL</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/images/icons/express-js.png" alt="Express Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Express</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
+        <img src="/images/icons/MongoDB.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">MongoDB</p>
       </div>
     </td>
@@ -168,7 +180,7 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
+        <img src="/images/icons/blockchain.png" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">BlockChain</p>
       </div>
     </td>
