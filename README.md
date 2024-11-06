@@ -14,14 +14,15 @@
 ## About me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <p align="center">
-  I’m a Full Stack Web Developer and Blockchain Engineer with a passion for building innovative and efficient applications. I specialize in both front-end and back-end development, ensuring seamless user experiences while leveraging blockchain technology to create secure and decentralized solutions. My goal is to blend creativity with technical expertise to drive impactful projects.
+  I'm Oliver Elias, I'm a Full Stack developer based in Germany.
+  I've been learning programming for over 4 years. After I started high school, I decided to pursue my passion for programming. My favorite part of programming is the problem-solving aspect. I love the feeling of finally figuring out a solution to a problem. I've had the opportunity to work on several exciting projects during my learning journey, ranging from personal projects to collaborative ventures. My core stack is React, Next.js, TypeScript, Tailwind CSS and Node.js. I am also familiar with Nuxt.js and Python. I am always looking to learn new technologies.
+  
+  I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
 </p>
 
 ## ⚡ Technologies
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/web3dotjs/F16822" alt="Web3 Icon" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="Ethereum Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" width="50" height="50" />
@@ -31,8 +32,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Icon" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Icon" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="Web API Icon" width="50" height="50" />
 </div>
