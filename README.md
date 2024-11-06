@@ -22,36 +22,107 @@
 
 ## ⚡ Technologies
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg" alt="Saas Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="TypeScript Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/idbZEWAZ5J/w/400/h/400/theme/dark/icon.png?c=1id64Mup7ac03k1S4NH&t=1727140851015" alt="Nuxt.js Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX9KYoFpX9v-HF45IjK17OC4jhT19I55y0Fw&s" alt="Python Icon" width="50" height="50" />
-</div>
+<table style="width: 100%;">
+  <tr style="width: 100%;">
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">HTML5</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">CSS3</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg" alt="Saas Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">SAAS</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">TailwindCSS</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Javascript</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="TypeScript Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Typescript</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">PHP</p>
+      </div>
+    </td>
+  </tr>
+  <tr style="width: 100%;">
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Laravel</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">React</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">NextJS</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Vue</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://cdn.brandfetch.io/idbZEWAZ5J/w/400/h/400/theme/dark/icon.png?c=1id64Mup7ac03k1S4NH&t=1727140851015" alt="Nuxt.js Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">NuxtJS</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Node</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Express</p>
+      </div>
+    </td>
+  </tr>
+  <tr style="width: 100%;">
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">MongoDB</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX9KYoFpX9v-HF45IjK17OC4jhT19I55y0Fw&s" alt="Python Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Python</p>
+      </div>
+    </td>
+  </tr>
+</table>
