@@ -14,10 +14,8 @@
 ## About me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <p>
-  I'm Oliver Elias, a Full Stack developer based in Germany. </br>
-  I've been learning programming for over 4 years. After I started high school, I decided to pursue my passion for programming. My favorite part of programming is the problem-solving aspect. I love the feeling of finally figuring out a solution to a problem. I've had the opportunity to work on several exciting projects during my learning journey, ranging from personal projects to collaborative ventures. My core stack is React, Next.js, TypeScript, Tailwind CSS and Node.js. I am also familiar with Nuxt.js and Python. I am always looking to learn new technologies.
-  
-  I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
+  During high school and university, I acquired diverse skills and participated in several web development projects. These experiences helped me become proficient in React, Vue, and Node.js, and I also gained experience in Python for web scraping. After graduating, 
+  I continued to enhance my skills by completing various projects. I am now seeking a position that allows me to utilize my abilities to the fullest while enriching my experience. My goal is to deliver high-quality work that builds trust with my clients.
 </p>
 
 ## ⚡ Technologies
